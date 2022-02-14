@@ -1,0 +1,30 @@
+{
+  "name": "kingofbear",
+  "version": "1.0.0",
+  "description": "Subscribe lah todd...!!!",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saipulanuar"
+  },
+  "keywords": [
+    "whatsapp-api",
+    "node.js"
+  ],
+  "author": "King Of Bear",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-validator": "^6.14.0",
+    "http": "^0.0.1-security",
+    "node-fetch": "^3.2.0",
+    "qrcode": "^1.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "socket.io": "^4.4.1",
+    "whatsapp-web.js": "^1.15.6"
+  }
+}
