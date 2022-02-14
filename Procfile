@@ -1,1 +1,1 @@
-worker: nodemon app.js
+worker: npm install && node app.js
